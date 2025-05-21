@@ -13,4 +13,4 @@ Exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kernel + 
 
 ## Um exemplo de arquitetura
 
-![Arquitetura](docs/otel-ais-arquitetura.png)
+![Arquitetura](docs/otel-ais-arquitetura.jpg)
