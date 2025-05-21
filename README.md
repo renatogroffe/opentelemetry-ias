@@ -1,6 +1,10 @@
 # opentelemetry-ias
 Repositório com recursos para implementação de Observabilidade com OpenTelemetry em aplicações que façam uso de recursos de IA.
 
+Escaneie o código para acessar o repo:
+
+![alt](docs/bit.ly_otel-ais.png)
+
 ---
 
 Exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kernel + .NET 9 + Azure OpenAI + Ollama + Docker Compose):
